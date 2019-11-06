@@ -2,6 +2,12 @@
 
 # StremeCoder BASICS
 
+## Install StremeCoder
+
+StremeCoder is a node Editing IDE for python and provided by Pluri Inc. It dramatically increases your code maintainability and documentability. 
+
+You can get it [Get It Here](http://do.pluricorp.com/page/stremecoder) 
+
 ## Install Python 3
 
 The StremeCoder does not require the presence of python to compile node graphs to python, but you will need python 3 to run any compiled file.
